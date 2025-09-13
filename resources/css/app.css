@@ -6,6 +6,11 @@
     font-size: 1.02rem;
 }
 
+/* Welcome page specific styles */
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
 .filament-sidebar-nav {
     @apply bg-primary-800 bg-gradient-to-tl from-primary-600 to-primary-700 dark:bg-gray-800 dark:border-gray-700 dark:from-gray-800 dark:to-gray-800;
 }
